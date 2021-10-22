@@ -14,4 +14,6 @@ struct MoviesAppApp: App {
             ContentView()
         }
     }
+    
+    
 }
